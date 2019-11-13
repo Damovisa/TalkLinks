@@ -9,3 +9,11 @@
  - [Azure Pipelines Agents Lifecycle](https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/agents?view=azure-devops&WT.mc_id=msignite2019-github-dabrady)
  - [c64 cloud deployment](https://github.com/martinwoodward/hello64)
  - [Das Deployer](https://github.com/martinwoodward/DasDeployer)
+
+### Demos
+
+Note: All pipeline variations are in a folder named `pipeline_variations` in each repo.
+
+ - [Prime - .NET Core application](https://github.com/Damovisa/Prime)
+ - [Tailwind Traders - .NET Core application](https://github.com/Damovisa/TailwindTraders-Website)
+ - [Calculator - Node application](https://github.com/Damovisa/calculator)
